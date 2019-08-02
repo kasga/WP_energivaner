@@ -1,2 +1,6 @@
 # WP_energivaner
-New WP design wrapped around the Energivaner beregner
+Start by navigating to the root folder where the Gulp file is located, then start Gulp to compile SASS files
+
+```
+gulp watch
+
